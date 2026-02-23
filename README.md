@@ -30,7 +30,7 @@
 ###
 
 <p align="left">
-I'm a <b>Bachelor of Computer Science Professional</b> student from <b>Swinburne University (Melbourne)</b>.<br><br>
+I'm a <b>Bachelor of Computer Science Professional</b> student from <b>Swinburne University</b>.<br><br>
 - 🔭 My extraciricculars involve <b>Vice President of the Brains, Minds, and Machines Club</b> & Developer for the FSAE Autonomous Vehicles Club.<br>
 - 📚 I'm currently learning <b>Advanced Computer Vision, Cloud Architecture, and Enterprise Data Systems</b>.<br>
 - ⚡ In my free time I <b> cook, workout, and travel</b>.<br>
