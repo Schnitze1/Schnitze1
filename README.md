@@ -11,10 +11,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+  <a href="linkedin.com/in/tim-schnabel-68b3bb215/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:Timothy.Schnabel@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
   </a>
 </div>
